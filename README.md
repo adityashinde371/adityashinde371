@@ -24,6 +24,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-shinde-92690018b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-shinde-92690018b/" height="30" width="40" /></a>
 <a href="https://medium.com/@adityashinde371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityashinde371" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqmequlm27dfxe8l7pb7csg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqmequlm27dfxe8l7pb7csg" height="30" width="40" /></a>
+
+
+<a href="https://www.quora.com/profile/Aditya-Shinde-156g" target="blank"><img align="center" src="https://storage.googleapis.com/kaggle-organizations/407/thumbnail.png?r=95" alt="https://www.youtube.com/channel/ucqmequlm27dfxe8l7pb7csg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
